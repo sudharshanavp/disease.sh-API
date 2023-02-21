@@ -13,5 +13,5 @@ spec:
   type: openapi
   lifecycle: production
   definition:
-    $text: https://disease.sh/apidocs/swagger_v3.json
+    $text: https://github.com/backstage-poc/disease.sh-API/blob/master/api_spec.json
    
