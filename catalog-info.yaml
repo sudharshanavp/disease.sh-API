@@ -6,9 +6,6 @@ metadata:
   description: API for Current cases and more stuff about COVID-19 and Influenza.
   tags:
     - javascript
-  links:
-    url: https://disease.sh/
-    title: Disease.sh HomePage
 spec:
   type: openapi
   lifecycle: production
