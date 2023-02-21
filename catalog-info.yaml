@@ -1,0 +1,17 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: disease.sh
+  title: Disease.sh API
+  description: API for Current cases and more stuff about COVID-19 and Influenza.
+  tags:
+    - javascript
+  links:
+    url: https://disease.sh/
+    title: Disease.sh HomePage
+spec:
+  type: openapi
+  lifecycle: production
+  definition:
+    $text: https://disease.sh/apidocs/swagger_v3.json
+   
