@@ -7,6 +7,7 @@ metadata:
   tags:
     - javascript
 spec:
+  owner: backstage-poc
   type: openapi
   lifecycle: production
   definition:
